@@ -11,7 +11,7 @@ const AboutUs: React.FC = () => {
                 {/* About Us Content */}
                 <div className='w-full'>
                     <p className="text-lg mb-8">
-                        Welcome to <span className="font-semibold text-red-300">Etawah Vegetable Shop</span>, your trusted source for fresh, hand-picked vegetables delivered right to your doorstep.
+                        Welcome to <span className="font-semibold text-red-300">Vegetable Shop</span>, your trusted source for fresh, hand-picked vegetables delivered right to your doorstep.
                     </p>
 
                     <h3 className="text-2xl font-semibold mb-4">
@@ -40,7 +40,7 @@ const AboutUs: React.FC = () => {
                     </p>
 
                     <p className="font-semibold text-center mb-8">
-                        Thank you for choosing <span className="font-semibold text-red-300">Etawah Vegetable Shop</span>. We look forward to serving you!
+                        Thank you for choosing <span className="font-semibold text-red-300">Vegetable Shop</span>. We look forward to serving you!
                     </p>
 
                     <div>
